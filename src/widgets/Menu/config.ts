@@ -99,15 +99,15 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/yetiexchange/",
+        href: "https://github.com/goosedefi/",
       },
       {
         label: "Docs",
-        href: "https://yetiexchange.gitbook.io/",
+        href: "https://goosedefi.gitbook.io/goose-finance/",
       },
       {
         label: "Blog",
-        href: "https://yetiexchange.medium.com/",
+        href: "https://goosefinance.medium.com/",
       },
     ],
   },
@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/yetiexchangepublic",
+        href: "https://t.me/goosedefi",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -164,7 +164,7 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "https://t.me/yetiexchange",
+        href: "https://t.me/goosefinanceann",
       },
       // {
       //   label: "Whale Alert",
@@ -175,7 +175,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/ExchangeYeti",
+    href: "https://twitter.com/FinanceGoose",
   },
 ];
 
